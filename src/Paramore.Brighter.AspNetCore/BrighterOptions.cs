@@ -2,7 +2,7 @@
 using Polly.Registry;
 #endif
 namespace Paramore.Brighter.AspNetCore
-{   
+{
     public sealed class BrighterOptions
     {
         /// <summary>
